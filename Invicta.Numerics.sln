@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invitca.Numerics", "Invitca.Numerics\Invitca.Numerics.csproj", "{D9E8C9F2-1A4A-403D-A30F-B1C46D6A9D50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invicta.Numerics", "Invicta.Numerics\Invicta.Numerics.csproj", "{D9E8C9F2-1A4A-403D-A30F-B1C46D6A9D50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invitca.Numerics.Test", "Invitca.Numerics.Test\Invitca.Numerics.Test.csproj", "{5AEA44D0-A71F-42C5-816A-182DC5D89B2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invicta.Numerics.Test", "Invicta.Numerics.Test\Invicta.Numerics.Test.csproj", "{5AEA44D0-A71F-42C5-816A-182DC5D89B2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
